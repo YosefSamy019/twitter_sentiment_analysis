@@ -1,0 +1,4 @@
+/clean_dataset.csv
+/cache/KNeighborsClassifier_cache.pickle
+/cache/SVC_linear_cache.pickle
+/cache/RandomForestClassifier_cache.pickle
